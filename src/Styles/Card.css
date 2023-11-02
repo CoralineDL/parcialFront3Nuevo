@@ -1,0 +1,21 @@
+.card{
+    background-color: pink;
+    border: 1px solid palevioletred;
+    border-radius:  10px;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{  
+    color: rgb(149, 9, 61);
+}
+
+h3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: medium;
+    font-style: italic;
+    color: teal;
+}
